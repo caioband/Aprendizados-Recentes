@@ -16,4 +16,4 @@ Nas últimas semanas, me dediquei intensamente ao aprendizado prático em desenv
 
 - Após o bootcamp, busquei aplicar os conhecimentos adquiridos: estudei a estrutura do [repositório oficial do **PowerShell**](https://github.com/PowerShell/PowerShell), realizei um **fork** e tentei implementar meu próprio **Cmdlet**. Enfrentei dificuldades ao compilar o projeto, mas interagi com a comunidade no fórum oficial, onde recebi orientações que me ajudaram a avançar. [Link da discussão que eu abri](https://github.com/PowerShell/PowerShell/discussions/25789)
 
-- Atualmente, estou trabalhando na integração do meu projeto em **Angular** com um **backend em .NET**, com planos de expandi-lo futuramente — incluindo recursos como **WebSocket para colaboração em tempo real**, entre outras melhorias.
+- Atualmente, estou trabalhando na integração do [meu projeto em **Angular**](https://github.com/caioband/Angular-InfinityWhiteboard) com um **backend em .NET**, com planos de expandi-lo futuramente — incluindo recursos como **WebSocket para colaboração em tempo real**, entre outras melhorias.
